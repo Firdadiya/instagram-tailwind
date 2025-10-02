@@ -18,17 +18,16 @@ Tujuannya adalah untuk melatih dasar-dasar frontend dan implementasi layout mode
 - HTML5 → struktur halaman.  
 - Tailwind CSS → styling modern berbasis utility-first.  
 
----
 
  📂 Cara Menjalankan
-1. Clone repository ini:  
+1. repository : 
     bash
-   git clone https://github.com/username/instagram-clone.git
+   git https://github.com/Firdadiya/instagram-tailwind.git
    
 2. Masuk ke folder project:  
     bash
-   cd instagram-clone
-3. Buka file `index.html` di browser favoritmu.
+   cd instagram-tailwind
+3. Buka file `index.html` di browser.
 
 📌 Kelebihan & Kekurangan
    ✅ Kelebihan :
