@@ -5,7 +5,7 @@ Tujuannya adalah untuk melatih dasar-dasar frontend dan implementasi layout mode
 
 
 🚀 Demo Tampilan
-![Demo](asset/img/tainliwd%201.png.png)  
+![Demo](asset/img/tainliwd.png)  
 
 
 ✨ Fitur Utama
